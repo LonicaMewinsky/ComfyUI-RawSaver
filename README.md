@@ -1,2 +1,4 @@
 # ComfyUI-RawSaver
-ComfyUI custom node for purpose of saving image as uint16 tif file
+ComfyUI custom node for purpose of saving image as uint16 tif file.
+
+Adds SaveTifFile to 'image' category.
